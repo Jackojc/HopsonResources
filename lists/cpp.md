@@ -26,7 +26,7 @@
     - Well written FAQ containing most of information about language features and new standards. Definitely must-read for every C++ programmer, especially without ealier contact with C++11 or newer standard.
 
 ### Articles
-- #### [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html)
+- #### [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html) (Intermediate)
     - Article about rvalue references in C++ and move semantics
 
 ### Blogs

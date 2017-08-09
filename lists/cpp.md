@@ -20,6 +20,9 @@
 - #### [cppreference.com](http://en.cppreference.com/w/) (Beginner, but suggested intermediate)
     - Best online C and C++ languages reference, containing all the informations you need about standard library and the language, up to newest standards. First choice, if we need some kind of algorithm or container, to search for.
 
+- #### [Standard Template Library Programmer's Guide](http://www.sgi.com/tech/stl/) (Intermediate suggested)
+    - Great source of knowledge about implementation details of STL - containers, algorithms, iterators, concepts, and much more
+
 ### FAQ's
 
 - #### [isocpp.org C+ Super-FAQ](https://isocpp.org/faq) (Beginner)

@@ -17,7 +17,7 @@
 
 ### Language references
 
-- #### [cppreference.com](http://en.cppreference.com/w/) (Beginner, but suggested intermediate)
+- #### [C++ Reference](http://en.cppreference.com/w/) (Beginner, but suggested intermediate)
     - Best online C and C++ languages reference, containing all the informations you need about standard library and the language, up to newest standards. First choice, if we need some kind of algorithm or container, to search for.
 
 - #### [Standard Template Library Programmer's Guide](http://www.sgi.com/tech/stl/) (Intermediate suggested)
@@ -25,7 +25,7 @@
 
 ### FAQ's
 
-- #### [isocpp.org C+ Super-FAQ](https://isocpp.org/faq) (Beginner)
+- #### [isocpp.org C++ Super-FAQ](https://isocpp.org/faq) (Beginner)
     - Well written FAQ containing most of information about language features and new standards. Definitely must-read for every C++ programmer, especially without ealier contact with C++11 or newer standard.
 
 ### Articles

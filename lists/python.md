@@ -62,7 +62,8 @@
 - #### [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) [Intermediate - Advanced]
     - Demonstrates some good guidelines for how to optimise code and when. Some interesting techniques for speedup too.
 
-
+- #### [Pycon interpreter talk](https://youtu.be/LCslqgM48D4) [Intermediate]
+    - Demonstrates the basics of creating an interpreter by creating a BASIC interpreter
 
 
 
@@ -82,6 +83,8 @@
 - #### [Top 10 Python idioms I wish I'd learned earlier](http://prooffreaderplus.blogspot.ie/2014/11/top-10-python-idioms-i-wished-id.html) [N/A]
     - Useful Python idioms you should get to learn to help you become a better Python developer.
 
+- #### [Intermediate Python](https://book.pythontips.com/en/latest/)
+    - Helpful docs that teach the basics of most intermediate/advanced pythonic concepts.
 
 ### Books
 
@@ -121,9 +124,12 @@
 
 - #### [matplotlib](https://matplotlib.org/) [N/A]
     - 2D plotting library for visualising information.
+
 - #### [pygame](https://pygame.org/) [N/A]
     - Simple game-making framework based on SDL.
-    
+
+- #### [PySimpleGUI](https://github.com/PySimpleGUI) [N/A]
+    - Super simple gui-making framework based on tkinter
 
 
 

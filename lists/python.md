@@ -13,6 +13,7 @@
 
 ### Contributors:
 - Jackojc
+- dossier-hash
 
 
 
@@ -120,7 +121,9 @@
 
 - #### [matplotlib](https://matplotlib.org/) [N/A]
     - 2D plotting library for visualising information.
-
+- #### [pygame](https://pygame.org/) [N/A]
+    - Simple game-making framework based on SDL.
+    
 
 
 
